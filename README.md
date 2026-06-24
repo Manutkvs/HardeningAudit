@@ -11,8 +11,3 @@ HardeningAudit es una herramienta ligera de automatización escrita en Python di
 - Python 3.x instalado.
 - Privilegios de superusuario (sudo) para acceder a configuraciones del sistema.
 
-## 🛠 Instalación
-```bash
-git clone [https://github.com/tu-usuario/SecSentinel-Linux.git](https://github.com/tu-usuario/SecSentinel-Linux.git)
-cd SecSentinel-Linux
-pip install -r requirements.txt
